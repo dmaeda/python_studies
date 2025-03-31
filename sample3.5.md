@@ -48,14 +48,16 @@ or PDFs:
 
 ## Images
 
-<img src="media/image1.gif" style="width:1.46528in;height:1.36042in"
-alt="Web Access Symbol" />Documents may contain images. For example,
-there is an image of the web accessibility symbol to the left of this
-paragraph. Its alternate text is "Web Access Symbol".
+<img src="./sample3/media/image1.gif"
+style="width:1.46528in;height:1.36042in" alt="Web Access Symbol" />Documents
+may contain images. For example, there is an image of the web
+accessibility symbol to the left of this paragraph. Its alternate text
+is "Web Access Symbol".
 
 Alt text should communicate what an image means, not how it looks.
 
-<img src="media/image2.png" style="width:2.95347in;height:1.45347in"
+<img src="./sample3/media/image2.png"
+style="width:2.95347in;height:1.45347in"
 alt="Chart of Screen Reader Market Share. (Unfortunately, there isn&#39;t a way in Word or PDF to include rich formatting, such as a table, in alternate text.)" />Some
 images, such as charts or graphs, require long descriptions, but not all
 document types allow that. In web pages, long descriptions may be
