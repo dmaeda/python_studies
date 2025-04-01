@@ -1,2 +1,2 @@
 pandoc -f docx -t markdown_strict+grid_tables sample3.docx -o sample3.4.md
-pandoc --extract-media ./sample3 -f docx -t gfm-pipe_tables sample3.docx -o sample3.5.md
+pandoc --extract-media ./sample3 -f docx -t gfm-pipe_tables OPEN_IAM-R2.25.docm -o OPEN_IAM-R2.25.md
